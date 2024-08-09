@@ -1,0 +1,11 @@
+ID|Name|Salary|Department|DateOfJoining|City|Email
+001|John Doe|50000|Engineering|2015-06-15|New York|john.doe@example.com
+002|Jane Smith|60000|Marketing|2017-09-10|Los Angeles|jane.smith@example.com
+003|Tom Brown|55000|Sales|2018-01-20|Chicago|tom.brown@example.com
+004|Emily Davis|70000|HR|2016-11-03|San Francisco|emily.davis@example.com
+005|Michael Johnson|65000|Engineering|2019-02-25|Austin|michael.johnson@example.com
+006|Linda White|58000|Finance|2020-04-12|Seattle|linda.white@example.com
+007|Chris Green|62000|Sales|2015-08-17|Boston|chris.green@example.com
+008|Patricia Black|71000|HR|2017-12-05|Miami|patricia.black@example.com
+009|Robert King|67000|Marketing|2016-03-22|Denver|robert.king@example.com
+010|Susan Lee|69000|Engineering|2018-07-18|San Diego|susan.lee@example.com
